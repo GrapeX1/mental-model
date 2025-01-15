@@ -4,6 +4,10 @@
 
 就像用数学公式得出正确的运算结果，通常用心智模型是希望得到合理的认知结果和对应的方法论。
 
+## GrapeX1 心智模型
+
+![2025-01-15-think](2025-01-15-think.png)
+
 ## License
 
 Works of this repository are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
