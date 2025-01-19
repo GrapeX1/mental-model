@@ -6,8 +6,14 @@
 
 ## GrapeX1 心智模型
 
-![2025-01-15-think](2025-01-15-think.png)
+### 如何思考
+
+![2025-01-19-think](2025-01-19-think.png)
+
+### 信息循环
+
+![2025-01-19-info-loop](2025-01-19-info-loop.png)
 
 ## License
 
-Works of this repository are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Works in [this repository](https://github.com/GrapeX1/mental-model) are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
