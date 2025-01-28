@@ -20,6 +20,10 @@
 
 ![2025-01-26-level-up](2025-01-26-level-up.png)
 
+### 分析自由
+
+![2025-01-28-libre](2025-01-28-libre.png)
+
 ## 版权许可
 
 Copyright © 2025 GrapeX1
